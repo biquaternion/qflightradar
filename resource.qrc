@@ -1,6 +1,5 @@
 <RCC>
     <qresource prefix="/">
-        <file>-.flightradar24.com</file>
         <file>config.ini</file>
     </qresource>
 </RCC>

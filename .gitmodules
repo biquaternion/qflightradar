@@ -1,0 +1,3 @@
+[submodule "QtRestApiRequester"]
+	path = QtRestApiRequester
+	url = https://github.com/Bragaman/QtRestApiRequester.git
